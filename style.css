@@ -1,0 +1,114 @@
+.header {    
+    width: 100%;
+    height: 140px;
+    padding-bottom: 18px;
+}
+
+.header-left {
+    float: left;
+    background-image: url(a.png);
+    background-size: cover;
+    width: 165px;
+    height: 140px;
+    margin-left: 342px;
+}
+
+.header-right {
+    height: 140px;
+    float: right;
+    width: 472px;
+    margin-right: 333px;
+}
+
+.header-right h3 {
+    font-style: italic;
+    text-align: center;
+}
+
+.judul {
+    padding-top: 20px;
+}
+
+.judul h2 {
+    margin-top: 20px;
+    letter-spacing: 3px;
+    text-align: center;
+    line-height: 5px;
+}
+
+.judul h3 {
+    padding-top: 11px;
+}
+
+.garisbawah {
+    margin-top: 10px;
+    width: 776px;
+    text-align: center;
+    position: relative;
+    top: 155px;
+    border-bottom: 3px solid black;
+    margin-left: 287px;
+}
+
+.content {
+    
+    width: 100%;
+    height: 401px;
+}
+
+.content-judul {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+    margin-left: 446px;
+    margin-top: 27px;
+}
+
+table {
+    text-align: start;
+    font-size: 20px;
+}
+
+textarea {
+    margin-left: 12px;
+    width: 270px;
+}
+
+td {
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+.alamat {
+    padding-top: 65px;
+}
+
+span {
+    padding-left: 24px;
+    position: relative;
+    left: 100px;
+}
+
+input {
+    width: 269px;
+    font-size: 20px;
+}
+
+.isian {
+    padding-left: 73px;
+}
+
+.button {
+    margin-left: 546px;
+    margin-top: 10px;
+}
+
+button {
+    font-size: 19px;
+    width: 96px;
+    border-radius: 9px;
+    margin-left: 11px;
+}
